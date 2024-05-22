@@ -11,9 +11,7 @@
       "resizeMode": "contain",
       "backgroundColor": "#000000"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.mobe.captainapp",
@@ -54,7 +52,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "24a03ec2-5cea-48ed-8af1-8bf53de03e3a"
+        "projectId": "5fb6de86-dc1b-4e3a-9293-0512d894209f"
       }
     },
     "owner": "shivenj"
