@@ -1,0 +1,62 @@
+{
+  "expo": {
+    "name": "mobe-captain",
+    "slug": "mobe-captain",
+    "version": "1.11.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mobe.captainapp",
+      "buildNumber": "5",
+      "config": {
+        "usesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "versionCode": 9,
+      "package": "com.mobe.captainapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "build": {
+      "development:simulator": {
+        "developmentClient": true,
+        "distribution": "internal",
+        "ios": {
+          "simulator": true
+        }
+      },
+      "development": {
+        "developmentClient": true,
+        "distribution": "internal"
+      },
+      "preview": {
+        "distribution": "internal"
+      },
+      "production": {
+        "autoIncrement": true
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "24a03ec2-5cea-48ed-8af1-8bf53de03e3a"
+      }
+    },
+    "owner": "shivenj"
+  }
+}

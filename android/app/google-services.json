@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "197060464809",
+    "firebase_url": "https://mobe-aca30.firebaseio.com",
+    "project_id": "mobe-aca30",
+    "storage_bucket": "mobe-aca30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197060464809:android:8e87bdcc1ef2007e",
+        "android_client_info": {
+          "package_name": "com.mobe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197060464809-vhn5o0chc2ee58dn45ef8d8dgg5t5he2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGIMQ45qyIia2GNDvROW1uWgwEDpl2vnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197060464809-vhn5o0chc2ee58dn45ef8d8dgg5t5he2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "197060464809-04o4t7476q75d15bppc1e6ob9beq5tk5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.keymouseit.mobe"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197060464809:android:249e4c04cc43553d2759b8",
+        "android_client_info": {
+          "package_name": "com.mobe.captainapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "197060464809-vhn5o0chc2ee58dn45ef8d8dgg5t5he2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGIMQ45qyIia2GNDvROW1uWgwEDpl2vnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "197060464809-vhn5o0chc2ee58dn45ef8d8dgg5t5he2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "197060464809-04o4t7476q75d15bppc1e6ob9beq5tk5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.keymouseit.mobe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
