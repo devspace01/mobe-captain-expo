@@ -337,6 +337,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = mobecaptain/mobecaptain.entitlements;
 				CURRENT_PROJECT_VERSION = 4;
+				DEVELOPMENT_TEAM = 2KR8A4T67B;
 				ENABLE_BITCODE = NO;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
@@ -374,6 +375,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = mobecaptain/mobecaptain.entitlements;
 				CURRENT_PROJECT_VERSION = 4;
+				DEVELOPMENT_TEAM = 2KR8A4T67B;
 				INFOPLIST_FILE = mobecaptain/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Mobe Captain";
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
