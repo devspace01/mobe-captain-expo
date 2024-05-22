@@ -122,6 +122,7 @@ const Login = ({ navigation }) => {
           : validateObject(val);
       }
     });
+
     return newVal.filter((e) => e !== undefined);
   };
 
