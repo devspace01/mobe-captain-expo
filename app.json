@@ -25,7 +25,6 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "versionCode": 11,
       "package": "com.mobe.captainapp"
     },
     "web": {
