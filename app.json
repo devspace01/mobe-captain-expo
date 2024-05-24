@@ -35,7 +35,8 @@
         "developmentClient": true,
         "distribution": "internal",
         "ios": {
-          "simulator": true
+          "simulator": true,
+          "image": "latest"
         }
       },
       "development": {
@@ -45,13 +46,11 @@
       "preview": {
         "distribution": "internal"
       },
-      "production": {
-        "autoIncrement": true
-      }
+      "production": {}
     },
     "extra": {
       "eas": {
-        "projectId": "5fb6de86-dc1b-4e3a-9293-0512d894209f"
+        "projectId": "75c623bb-3d87-4eb8-a616-06c2fd4ba909"
       }
     },
     "owner": "devspace01"
