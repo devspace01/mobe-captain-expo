@@ -28,7 +28,11 @@
   },
   "submit": {
     "production": {
-      "ios": {},
+      "ios": {
+        "appleId": "shiven.juneja@gmail.com",
+        "ascAppId": "6443788615",
+        "appleTeamId": "2KR8A4T67B"
+      },
       "android": {
         "track": "internal"
       }
